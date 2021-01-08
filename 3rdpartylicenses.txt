@@ -865,6 +865,9 @@ SOFTWARE.
 ngx-dropzone-wrapper
 MIT
 
+ngx-paypal
+MIT
+
 ngx-slick-carousel
 MIT
 
